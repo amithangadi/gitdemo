@@ -1,3 +1,4 @@
 java full stack skills
 Java, SQL, Hibernate, Spring , Spring Boot, React JS
 core computer sceince subjects
+Operating system, dbms and cn
