@@ -1,1 +1,2 @@
 java full stack skills
+Java, SQL, Hibernate, Spring , Spring Boot, React JS
