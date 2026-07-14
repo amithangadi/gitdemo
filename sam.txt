@@ -3,5 +3,8 @@ Learning the git hub
 m1
 m2
 m3
+<<<<<<< HEAD
 d1
 d2 error
+=======
+>>>>>>> c1b8c79 (Because it contains some issues Revert "m4")
